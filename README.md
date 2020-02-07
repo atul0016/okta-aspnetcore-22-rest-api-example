@@ -31,7 +31,7 @@ You will need to create an application in Okta:
 
 ## Links
 
-This example is described in the blog post: [Build a REST API with ASP.NET Core 2.2]()
+This example is described in the blog post: [Build a REST API with ASP.NET Core 2.2](https://developer.okta.com/blog/2019/04/10/build-rest-api-with-aspnetcore)
 
 ## Help
 
@@ -40,4 +40,3 @@ Please [raise an issue](https://github.com/oktadeveloper/okta-aspnetcore-22-rest
 ## License
 
 Apache 2.0, see [LICENSE](LICENSE).
-
